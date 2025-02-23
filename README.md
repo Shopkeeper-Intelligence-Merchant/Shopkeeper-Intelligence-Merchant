@@ -56,4 +56,4 @@ Next, we need to plan the development of the ECOMMERCE app by organizing these f
    - Payment gateways for UPI and subscriptions
    - AR and Metaverse services for future upgrades
 
-Following this plan, we can start setting up a new repository and implement the features step-by-step. Let me know if you need any specific assistance or if you have any additional requirements.
+Follow this rules 
